@@ -1,0 +1,13 @@
+Exemplo de um Barco Medio:
+
+Supondo que voce digite:
+primeira linha: 5
+primeira coluna: D
+
+Agora voce deve direcionar onde serao as proximas coordenadas do seu barco.
+nesse exemplo escolhemos:
+4-Esquerda
+
+Entao as proximas linha e coluna consecutivamente serao:
+linha: 5	coluna: C
+linha: 5	coluna: B
